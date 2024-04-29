@@ -53,7 +53,7 @@ Monitoring and Logging:
 6. The API Gateway triggers AWS Lambda functions to process the requests, taking into account the path and HTTP method.
 7. Lambda functions interact with Amazon DynamoDB for data storage and retrieval.
 
-Response to API Gateway: The Lambda function returns the response data to API Gateway.
+Response to API Gateway: The Lambda function returns the response data to API Gateway.<br>
 API Gateway Response: API Gateway formats and returns the response to the user's browser.
 
 <h3>Security Best Practices:</h3>
